@@ -8,16 +8,16 @@ sidebar:
 
     # Profile information
     name: Jungho Cho
-    tagline: PhD Student in Database & Data Mining Lab
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Master Student in Database & Data Mining Lab
+    avatar: profile.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hkkang@dblab.postech.ac.kr
-    phone: 054-xxx-xxxx
+    email: jhcho@dblab.postech.ac.kr
+    phone: 054-279-5582
 #    website: blog.webjeda.com #do not add http://
-#    linkedin: alandoe
+    linkedin: jungho-cho
 #    xing: alandoe
-    github: hyukyu
+    github: JHCho-DBLab-Postech
 #    telegram: # add your nickname without '@' sign
 #    gitlab:
 #    bitbucket:
@@ -46,12 +46,12 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am a Ph.D. Student in the Dept. Computer Science and Engineering at Pohang University of Science and Technology (POSTECH). I am doing research under the supervision of Professor Wook-Shin Han.
+      I am a Master Student in the Dept. Convergence IT Engineering at Pohang University of Science and Technology (POSTECH). I am doing research under the supervision of Professor Wook-Shin Han.
       
 education:
-    - degree: Ph.D in Computer Science
+    - degree: Master in Convergence IT Engineering
       university: Pohang University of Science of Technology (POSTECH)
-      time: 2019 - present
+      time: 2018 - present
 #       details: |
 #         Describe your study here lorem ipsum dolor sit amet, consectetuer
 #         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -60,9 +60,9 @@ education:
 #         pretium quis, sem.
 #           - Bullet point
 #           - Bullet point
-    - degree: B.S in Computer Science
+    - degree: B.S in Convergence IT Engineering
       university: Pohang University of Science of Technology (POSTECH)
-      time: 2015 - 2019
+      time: 2015 - 2018
 #       details: |
 #         Describe your study here lorem ipsum dolor sit amet, consectetuer
 #         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -72,17 +72,17 @@ education:
 #           - Bullet point
 #           - Bullet point
 experiences:
-    - role: Ph.D. in Computer Science and Engineering
-      time: 2019 - present
-      company: Pohang University of Science of Technology (POSTECH)
-
-    - role: B.S. in Computer Science and Engineering
-      time: 2015 - 2019
-      company: Pohang University of Science of Technology (POSTECH)
-
+    - role: Intern
+      time: 2019.6 - 2019.9
+      company: Oracle, Redwood City, California, United States
+      
     - role: Intern
       time: 2018.6 - 2018.8
-      company: Netmarble, Seoul Korea
+      company: Netmarble, Seoul, South Korea
+      
+    - role: Intern
+      time: 2016.6 - 2016.8
+      company: Exem R&D Center, Pohang, South Korea
 #       details:  
 #           I was in the AI research team. I developed AI agents for mobile strategy games
 #         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -160,7 +160,7 @@ publications:
 Reference:
     title: Reference
     intro: |
-        Prof. Wook-Shin Han (Ph.D. Advisor), Full Professor, POSTECH, South Korea (wshan@dblab.postech.ac.kr) 
+        Prof. Wook-Shin Han (Master Advisor), Full Professor, POSTECH, South Korea (wshan@dblab.postech.ac.kr) 
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
